@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Website
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.1.4.
@@ -29,4 +29,3 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 =======
 # angular-landing-page
 website in angular 6
->>>>>>> 02cd7bc618b4e7296ad2d302e3aba6cacbf737bd
