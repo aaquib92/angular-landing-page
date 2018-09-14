@@ -1,0 +1,111 @@
+
+   @font-face {
+    font-family: "CircularStdBook";
+    src: url("../assets/fonts/CircularStd-Book.otf");
+    }
+    @font-face {
+      font-family: "CircularStdMedium";
+      src: url("../assets/fonts/CircularStd-Medium.otf");
+      }
+    @font-face {
+        font-family: "CircularStdBold";
+        src: url("../assets/fonts/CircularStd-Bold.otf");
+    }
+      @font-face {
+        font-family: "CircularStdBlack";
+        src: url("../assets/fonts/CircularStd-Black.otf");
+    }
+
+.background-nav {
+    width: 100%;
+    height: auto;
+    object-fit: contain;
+    background-color: #061230;
+  }
+  .links {
+    height: 30px;
+    font-family: CircularStdMedium;
+    font-size: 18px;
+    font-weight: 500;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.89;
+    letter-spacing: normal;
+    color: #ffffff;
+  }
+  .register-btn {
+    width: 120px;
+    height: 32px;
+    border-radius: 3px;
+    background-color: #64d9a3;
+    border:none;
+  }
+  .register {
+    font-family: CircularStdBook;
+    font-size: 18px;
+    font-weight: 500;
+    font-style: normal;
+    font-stretch: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: #ffffff;
+  }
+  .login-btn {
+    width: 120px;
+    height: 32px;
+    border-radius: 3px;
+    border: solid 1px #ffffff;
+    background-color: #061230;
+
+  }
+  .login {
+    /* width: 61px;
+    height: 20px; */
+    font-family: CircularStdBook;
+    font-size: 18px;
+    font-weight: 500;
+    font-style: normal;
+    font-stretch: normal;
+    /* line-height: 1.89; */
+    letter-spacing: normal;
+    text-align: center;
+    color: #ffffff;
+  }
+  
+  .topnav a {
+   
+    text-decoration: none;
+    font-size: 17px;
+    padding: 0 16px; 
+    border-bottom: 3px solid transparent;
+    /* border: solid 3px #64d9a3; */
+  }
+  
+  .topnav a:hover {
+    border-bottom: 3px solid #64d9a3;
+  }
+  
+  .topnav a.active {
+    border-bottom: 3px solid  #64d9a3;
+  
+  }
+  ul>li>.reg{
+    border-bottom:0;
+  }
+  .logo-text {
+    font-family: Helvetica;
+    font-size: 22.9px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: 4.9px;
+    text-align: center;
+    color: #ffffff;
+    margin-left:2%;
+  }
+  .logo {
+    width: 25px;
+    height: 25px;
+    margin-left:2%;
+  }
