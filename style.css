@@ -1,0 +1,33 @@
+.ml15 {
+    font-weight: 800;
+    font-size: 3.8em;
+    text-transform: uppercase;
+    letter-spacing: 0.5em;
+    text-align:center;
+    color:#ffffff;
+  }
+  
+  .ml15 .word {
+    display: inline-block;
+    line-height: 1em;
+  }
+  .ml14 {
+    font-weight: 800;
+    font-size: 3.8em;
+    text-transform: uppercase;
+    letter-spacing: 0.5em;
+    text-align:center;
+    color:chartreuse;
+  }
+  
+  .ml14 .word {
+    display: inline-block;
+    line-height: 1em;
+  }
+
+  body{
+      background-color: black;
+      background-image: url("images/32fj.gif");
+
+  }
+  
