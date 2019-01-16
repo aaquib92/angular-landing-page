@@ -1,0 +1,281 @@
+.pg-4-section1{
+
+    width: 100%;
+    height: 855px;
+    object-fit: contain;
+    background-color: #061230;
+}
+.support {
+     /* width: 644px;
+    height: 61px;  */
+    font-family: CircularStd;
+    font-size: 48px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #ffffff;
+    margin-top:20%;
+  }
+  .connecte {
+    /* width: 950px;
+    height: 26px; */
+    object-fit: contain;
+    font-family: CircularStd;
+    font-size: 22px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.18;
+    letter-spacing: normal;
+    color: #ffffff;
+    margin-top:21px;
+  }
+  .we-are-just {
+    /* width: 950px;
+    height: 26px; */
+    object-fit: contain;
+    font-family: CircularStd;
+    font-size: 26px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1;
+    letter-spacing: normal;
+    color: #ffffff;
+    margin-top:63px;
+  }
+  .supp {
+    /* width: 462px;  */
+    /* height: 105px;  */
+    opacity: 0.08;
+    font-family: CircularStd;
+    font-size: 3rem;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: 12.5px;
+    text-align: center;
+    color: #ffffff;
+    /* background-color: #ffffff; */
+    margin-top:20%;
+  }
+  .inp {
+    /* width: 784px; */
+    /* height: 56px; */
+    border-radius: 2px;
+    background-color: rgba(248, 249, 252, 0.26);
+    border: solid 1px #ffffff;
+    margin-top:29px;
+  }
+  .btn-send1 {
+    /* width: 213px;
+    height: 52px; */
+    border-radius: 3px;
+    background-color: #64d9a3;
+    margin-top:59px;
+    /* margin-left: 400px; */
+    
+  }
+    .send1 {
+        width: 83px;
+        /* height: 17.6px; */
+        font-family: CircularStd;
+        font-size: 22px;
+        font-weight: 500;
+        font-style: normal;
+        font-stretch: normal;
+        line-height: 1.55;
+        letter-spacing: normal;
+        text-align: center;
+        color: #ffffff;
+      }
+      .our-represen {
+        /* width: 950px;
+        height: 26px; */
+        object-fit: contain;
+        font-family: CircularStd;
+        font-size: 22px;
+        font-weight: normal;
+        font-style: normal;
+        font-stretch: normal;
+        line-height: 1.18;
+        letter-spacing: 1px;
+        color: #ffffff;
+        margin-top: 49px;
+      }
+      .pg-4-section2 {
+        /* width: 100%;
+        height: 2000px; */
+        background-color: #f8f9fc;
+      }
+      .card-section {
+        width: 100%;
+        height: auto;
+        border-radius: 10px;
+        background-color: #ffffff;
+        box-shadow: 0 2px 8px 0 rgba(0, 0, 0, 0.18);
+        /* margin:50px 50px 0 50px; */
+        margin-top:-60px;
+        /* margin-left:50px; */
+      }
+      .know-about {
+        /* width: 568px;
+        height: 33px; */
+        font-family: CircularStd;
+        font-size: 26px;
+        font-weight: 500;
+        font-style: normal;
+        font-stretch: normal;
+        line-height: normal;
+        letter-spacing: normal;
+        text-align: center;
+        color: #071d5b;
+        padding-top: 64px;
+      }
+      .data-coll {
+        /* width: 413px;
+        height: 25px; */
+        font-family: CircularStd;
+        font-size: 20px;
+        font-weight: 500;
+        font-style: normal;
+        font-stretch: normal;
+        line-height: normal;
+        letter-spacing: normal;
+        color: #071d5b;
+        margin-top:58px;
+      }
+      .line {
+        width: 60px;
+        height: 4px;
+        background-color: #64d9a3;
+        margin-top:27px;
+      }
+      .effortless {
+        /* width: 1117px;
+        height: 34px; */
+        font-family: CircularStd;
+        font-size: 16px;
+        font-weight: normal;
+        font-style: normal;
+        font-stretch: normal;
+        line-height: 2;
+        letter-spacing: 0.2px;
+        color: #5b6c94;
+        margin-top:18px;
+      }
+      .teach-supp {
+        font-family: CircularStd;
+        font-size: 20px;
+        font-weight: 500;
+        font-style: normal;
+        font-stretch: normal;
+        line-height: normal;
+        letter-spacing: normal;
+        color: #071d5b;
+        margin-top:30px;
+      }
+      .supp-mang {
+        font-family: CircularStd;
+        font-size: 16px;
+        font-weight: normal;
+        font-style: normal;
+        font-stretch: normal;
+        line-height: 2;
+        letter-spacing: 0.2px;
+        color: #5b6c94;
+        margin-top:18px;
+      }
+      .parent-orientation {
+        font-family: CircularStd;
+        font-size: 20px;
+        font-weight: 500;
+        font-style: normal;
+        font-stretch: normal;
+        line-height: normal;
+        letter-spacing: normal;
+        color: #071d5b;
+        margin-top:30px;        
+      } 
+      .proficient {
+        font-family: CircularStd;
+        font-size: 16px;
+        font-weight: normal;
+        font-style: normal;
+        font-stretch: normal;
+        line-height: 2;
+        letter-spacing: 0.2px;
+        color: #5b6c94;
+        margin-top:18px;
+      }
+      .notifications {
+        font-family: CircularStd;
+        font-size: 20px;
+        font-weight: 500;
+        font-style: normal;
+        font-stretch: normal;
+        line-height: normal;
+        letter-spacing: normal;
+        color: #071d5b;
+        margin-top:30px;        
+      } 
+      .pr-te {
+        font-family: CircularStd;
+        font-size: 16px;
+        font-weight: normal;
+        font-style: normal;
+        font-stretch: normal;
+        line-height: 2;
+        letter-spacing: 0.2px;
+        color: #5b6c94;
+        margin-top:18px;
+      }
+      .customer-supp {
+        font-family: CircularStd;
+        font-size: 20px;
+        font-weight: 500;
+        font-style: normal;
+        font-stretch: normal;
+        line-height: normal;
+        letter-spacing: normal;
+        color: #071d5b;
+        margin-top:30px;        
+      } 
+      .customer-rep {
+        font-family: CircularStd;
+        font-size: 16px;
+        font-weight: normal;
+        font-style: normal;
+        font-stretch: normal;
+        line-height: 2;
+        letter-spacing: 0.2px;
+        color: #5b6c94;
+        margin-top:18px;
+      }
+      .customisations {
+        font-family: CircularStd;
+        font-size: 20px;
+        font-weight: 500;
+        font-style: normal;
+        font-stretch: normal;
+        line-height: normal;
+        letter-spacing: normal;
+        color: #071d5b;
+        margin-top:30px;        
+      } 
+      .evr-school {
+        font-family: CircularStd;
+        font-size: 16px;
+        font-weight: normal;
+        font-style: normal;
+        font-stretch: normal;
+        line-height: 2;
+        letter-spacing: 0.2px;
+        color: #5b6c94;
+        margin-top:18px;
+        padding-bottom: 64px;
+      }
+      

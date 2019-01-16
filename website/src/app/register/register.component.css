@@ -1,0 +1,246 @@
+.Select-profile {
+    width: 100%;
+    height: auto;
+    background-color: #061230;
+  }
+  .welcome-digi {
+    font-family: CircularStd;
+    font-size: 48px;
+    font-weight: 900;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #ffffff;
+    margin-top:228px;
+  }
+  .join-us {
+    object-fit: contain;
+    font-family: CircularStd;
+    font-size: 22px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.18;
+    letter-spacing: normal;
+    color: #ffffff;
+    margin-top:30px;
+  }
+  .Digimkey {
+    /* width: 100%; */
+    opacity: 0.08;
+    font-family: CircularStd;
+    font-size: 2.5rem;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: 12.5px;
+    text-align: center;
+    color: #ffffff;
+    /* background-color: #ffffff; */
+    margin-top:199px;
+  }
+  .profile-card {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+    background-color: #ffffff;
+    box-shadow: 0 2px 23px -4px rgba(0, 0, 0, 0.62);
+    margin-top:115px;
+    margin-bottom:82px;
+  }
+  .choose-profile {
+    /* width: 584px;
+    height: 46px; */
+    font-family: CircularStd;
+    font-size: 36px;
+    font-weight: 500;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: 0px;
+    text-align: center;
+    color: #000000;
+    padding-top:50px;
+  }
+  .select-your-profile {
+    padding-top:14px;
+    font-family: CircularStd;
+    font-size: 18px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.11;
+    letter-spacing: normal;
+    text-align: center;
+    color: #767a8c;
+  }
+  .block1 {
+    /* width: 152px; */
+    height: 152px;
+    border-radius: 4px;
+    border: solid 2px #64d9a3;
+  }
+  .block2 {
+    /* width: 152px; */
+    height: 152px;
+    border-radius: 4px;
+    border: solid 1px #a4a8bb;
+  }
+  .block3 {
+    height: 152px;
+    border-radius: 4px;
+    border: solid 1px #a4a8bb;
+  }
+  .block4 {
+    height: 152px;
+    border-radius: 4px;
+    border: solid 1px #a4a8bb;
+  }
+  .block5 {
+    height: 152px;
+    border-radius: 4px;
+    border: solid 1px #a4a8bb;
+  }
+  .block6 {
+    height: 152px;
+    border-radius: 4px;
+    border: solid 1px #a4a8bb;
+  }
+
+  .college {
+    font-family: CircularStd;
+    font-size: 22px;
+    font-weight: 500;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: #2e2c38;
+    margin-top:36px;
+  }
+  .parent {
+    font-family: CircularStd;
+    font-size: 22px;
+    font-weight: 500;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: #2e2c38;
+    margin-top:36px;
+
+  }
+  .student {
+    font-family: CircularStd;
+    font-size: 22px;
+    font-weight: 500;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: #2e2c38;
+    margin-top:36px;
+  }
+  .other {
+    font-family: CircularStd;
+    font-size: 22px;
+    font-weight: 500;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: #2e2c38;
+    margin-top:36px;
+  } 
+  .college-icon {
+    width: 88px;
+    height: 78px;
+    margin-top: 15%;
+    margin-left: 33%;
+    }
+    .parent-icon {
+      width: 75px;
+      height: 75px;
+      margin-top: 15%;
+      margin-left: 33%;
+     }
+   .student-icon {
+      width: 60px;
+      height: 65px;
+      margin-top: 15%;
+      margin-left: 33%;
+     }
+     .teaching {
+      width: 87px;
+      height: 70px;
+      margin-top: 15%;
+      margin-left: 33%;
+    }
+    .non-teaching{
+      width: 36px;
+      height: 70px;
+      margin-top: 15%;
+      margin-left: 33%;
+
+    }
+    .other-icon {
+      width: 87px;
+      height: 70px;
+      margin-top: 15%;
+      margin-left: 33%;
+    }
+  .teaching-staff {
+    font-family: CircularStd;
+    font-size: 22px;
+    font-weight: 500;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: #2e2c38;
+    margin-top:36px;
+
+  }
+  .non-teaching-staff {
+    font-family: CircularStd;
+    font-size: 22px;
+    font-weight: 500;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: #2e2c38;
+    margin-top:36px;
+
+  }
+
+  .btn_next {
+    width: 100%;
+    height: 52px;
+    border-radius: 3px;
+    background-color: #64d9a3;
+    margin-top:76px;
+    margin-bottom:50px;
+     /* margin-left:70px;  */
+  }
+  .next {
+    /* width: 162px; */
+    /* height: 17.6px; */
+    font-family: CircularStd;
+    font-size: 22px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.55;
+    letter-spacing: normal;
+    text-align: center;
+    color: #ffffff;
+  }

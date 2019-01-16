@@ -1,0 +1,188 @@
+.pg-3-section1{
+    width: 100%;
+    height: 534px;
+    background-color: #061230;
+
+  }
+  .contact-us {
+    font-family: CircularStd;
+    font-size: 48px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #ffffff;
+    margin-top:20%;
+  }
+  .ty {
+    object-fit: contain;
+    font-family: CircularStd;
+    font-size: 22px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.18;
+    letter-spacing: normal;
+    color: #ffffff;
+    margin-top:21px;
+  }
+  .contact {
+    opacity: 0.08;
+    font-family: CircularStd;
+    font-size: 2rem;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: 12.5px;
+    text-align: center;
+    color: #ffffff;
+    margin-top:20%;
+    
+    /* background-color: #ffffff; */
+  }
+
+  .form-card1 {
+    width: 100%;
+    height: 751px;
+    background-color: #ffffff;
+    box-shadow: 0 2px 8px 0 rgba(0, 0, 0, 0.18);
+    /* margin:50px 50px 0 50px; */
+    margin-top:-90px;
+  }
+  .reach {
+    font-family: CircularStd;
+    font-size: 26px;
+    font-weight: 500;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: #071d5b;
+    padding-top:64px;
+  }
+  .inp {
+    border-radius: 2px;
+    border: solid 1px #c7cadb;
+    margin-top:91px;
+  }
+  .inp2 {
+    border-radius: 2px;
+    border: solid 1px #c7cadb;
+    margin-top:30px;
+  }s
+  ::placeholder {
+    width: 500px;
+    height: 23px;
+    font-family: CircularStd;
+    font-size: 18px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: 0.6px;
+    color: #969bb4;
+  }
+  .btn-send {
+     width: 50%; 
+    /* height: 52px; */ 
+    border-radius: 3px;
+    background-color: #64d9a3;
+    margin-top:30px;
+    margin-bottom:64px;
+    
+  }
+    .send {
+        /* width: 83px; */
+        /* height: 17.6px; */
+        font-family: CircularStd;
+        font-size: 22px;
+        font-weight: 500;
+        font-style: normal;
+        font-stretch: normal;
+        line-height: 1.55;
+        letter-spacing: normal;
+        text-align: center;
+        color: #ffffff;
+      }
+      .pg-3-section3 {
+        width: 100%;
+        height: auto;
+        background-color: #f8f9fc;
+      }
+      .locate {
+        font-family: CircularStd;
+        font-size: 32px;
+        font-weight: normal;
+        font-style: normal;
+        font-stretch: normal;
+        line-height: 1.88;
+        letter-spacing: 1.1px;
+        text-align: center;
+        color: #000000;
+        margin-top:65px;
+      } 
+      .call-us {
+        font-family: CircularStd;
+        font-size: 20px;
+        font-weight: 500;
+        font-style: normal;
+        font-stretch: normal;
+        line-height: normal;
+        letter-spacing: normal;
+        color: #2f3841;
+        margin-top:39px;
+        text-align: center;        
+      } 
+      .contact-no1 {
+        margin-top:16px;
+        font-family: AvenirNext;
+        font-size: 16px;
+        font-weight: normal;
+        font-style: normal;
+        font-stretch: normal;
+        line-height: 0.63;
+        letter-spacing: normal;
+        text-align: center;
+        color: #2f3841;
+      }
+      .contact-no2 {
+        margin-top:54px;
+        font-family: AvenirNext;
+        font-size: 16px;
+        font-weight: normal;
+        font-style: normal;
+        font-stretch: normal;
+        line-height: 0.63;
+        letter-spacing: normal;
+        text-align: center;
+        color: #2f3841;
+      }
+      .mail-at {
+        margin-top:54px;        
+        font-family: CircularStd;
+        font-size: 20px;
+        font-weight: 500;
+        font-style: normal;
+        font-stretch: normal;
+        line-height: normal;
+        letter-spacing: normal;
+        color: #2f3841;
+        text-align: center;
+        
+      }
+      .cont-digi {
+        margin-top:16px;        
+        font-family: AvenirNext;
+        font-size: 16px;
+        font-weight: normal;
+        font-style: normal;
+        font-stretch: normal;
+        line-height: 0.63;
+        letter-spacing: normal;
+        color: #2f3841;
+        text-align: center;
+        
+      }
